@@ -1,6 +1,11 @@
 ## Hi there 👋
 # Hey! I'm Vaibhav 👋
+Contact Me
 
+[![GitHub](https://img.shields.io/badge/GitHub-saurabhh--svg-blue?style=for-the-badge&logo=github)](https://github.com/saurabhh-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saurabh%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saurabh-singh)
+[![Medium](https://img.shields.io/badge/Medium-Badge-black?style=for-the-badge&logo=medium)](https://medium.com/@saurabh)
+[![Twitter](https://img.shields.io/badge/Twitter-kyayrrsaurabh-blue?style=for-the-badge&logo=twitter)](https://twitter.com/kyayrrsaurabh)
 <!--
 **20Vaibhavk/20Vaibhavk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

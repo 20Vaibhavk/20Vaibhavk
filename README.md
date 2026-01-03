@@ -1,6 +1,12 @@
-# 💫 About Me:
-i am currently working at bdo india VLM <br>i am looking o colabarate on project like or sotware project, genai or ml model creation or model training and finetuning<br>i m looking for help with open source colaboration<br>i am learning llm creation<br>ask me about ml and gen aisoftware developement<br>fun fact is i start Fun fact: By day I’m at BDO India, by night I collaborate on open-source ML and GenAI projects and experiment with LLMs that (sometimes) behave better than humans 😄<br><br>Fun fact: If you ask me about ML or GenAI, there’s a good chance I’ll respond with a model, a dataset, or a GitHub repo 🚀<br>
+## 💫 About Me
 
+Currently working at **BDO India** on projects using **VLM (Vision–Language Models)**.  
+I collaborate on **software, ML, and GenAI projects**, with a focus on **model training, fine-tuning, and LLM development**.  
+Actively interested in **open-source contributions** and building real-world AI systems.
+
+💬 Ask me about **Machine Learning, Generative AI, LLMs, and backend development**.
+
+😄 **Fun fact:** By day I’m at BDO India, by night I experiment with open-source ML/GenAI projects—and I usually reply with a model or a GitHub repo 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/20vaibhavk/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/@20Vaibhavk) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@20Vaibhavk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhav.vs2002@gmail.com) 
@@ -13,10 +19,13 @@ i am currently working at bdo india VLM <br>i am looking o colabarate on project
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=20Vaibhavk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=20Vaibhavk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=20Vaibhavk&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=20Vaibhavk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=20Vaibhavk&icon=0&color=0)](https://visitcount.itsvg.in)

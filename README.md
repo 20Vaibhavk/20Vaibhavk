@@ -1,5 +1,9 @@
 ## 💫 About Me
 
+
+
+
+
 Currently working at **BDO India** on projects using **VLM (Vision–Language Models)**.  
 I collaborate on **software, ML, and GenAI projects**, with a focus on **model training, fine-tuning, and LLM development**.  
 Actively interested in **open-source contributions** and building real-world AI systems.
@@ -27,3 +31,4 @@ Actively interested in **open-source contributions** and building real-world AI 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Course: MLOps Bootcamp on Udemy - Deploy, Automate & Monitor ML in Production: https://www.udemy.com/course/mlops-bootcamp-deploy-automate-monitor-ml-in-production/?referralCode=F7ECD5CF2EE02B44DDD2
